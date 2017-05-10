@@ -1,0 +1,3 @@
+#!/bin/sh
+echo Running service
+python3 hero_classifier_v0.1.1.py 

@@ -1,0 +1,3 @@
+#!/bin/sh
+echo Running service
+python3 get_highlights_v0.2.py 
